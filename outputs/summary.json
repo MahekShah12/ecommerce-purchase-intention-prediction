@@ -1,0 +1,19 @@
+{
+ "overall_best": "Gradient Boosting",
+ "final": {
+  "Dataset 1": "Gradient Boosting",
+  "Dataset 2": "Gradient Boosting"
+ },
+ "thr": {
+  "Dataset 1": {
+   "Logistic Regression": 0.9549999999999996,
+   "Random Forest": 0.8349999999999996,
+   "Gradient Boosting": 0.9549999999999996
+  },
+  "Dataset 2": {
+   "Logistic Regression": 0.6649999999999997,
+   "Random Forest": 0.7249999999999998,
+   "Gradient Boosting": 0.7299999999999998
+  }
+ }
+}
